@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushantkrishnan&count_private=true)
 <!--
 **sushantkrishnan/sushantkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
